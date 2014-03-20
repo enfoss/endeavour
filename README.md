@@ -1,4 +1,4 @@
 endeavour
 =========
 
-An cloud programming platform in Django 
+An cloud programming platform
